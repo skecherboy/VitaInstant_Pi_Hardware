@@ -7,13 +7,16 @@ This repository holds all the code that was handled and ran on the Raspberry Pi 
 
 # Hardware 
 Raspberry Pi 4
+
 Arduino Mega
+
 Servo 
+
 3D Printed Actuator and Casing
 
 # Software
 Python
   - OpenCV
 
-#Database#
-Firebase
+# Database 
+Firebase Firestore
